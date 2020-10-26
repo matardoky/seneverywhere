@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "62c3690c08bbadb326fef588b452e95b656262c2988509ec13dfbecd5cd49463"
+            "sha256": "7dbfcc6b93fe0ccf72392ec286487d485b394d5d176886950b50d6bf0208feb4"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -61,6 +61,14 @@
             "index": "pypi",
             "version": "==2.1"
         },
+        "django-oscar-api": {
+            "hashes": [
+                "sha256:7ae7355066215a33a14cb355f176b1398c5c40746d0dc4115bc9cec80a4d344f",
+                "sha256:815ed70203459ac13a8e6921e1f63d5ee9b08a6baea1370acdad93e8a5602fab"
+            ],
+            "index": "pypi",
+            "version": "==2.0.2"
+        },
         "django-phonenumber-field": {
             "hashes": [
                 "sha256:1ab19f723928582fed412bd9844221fa4ff466276d8526b8b4a9913ee1487c5e",
@@ -91,6 +99,14 @@
             ],
             "index": "pypi",
             "version": "==1.4.8"
+        },
+        "djangorestframework": {
+            "hashes": [
+                "sha256:5c5071fcbad6dce16f566d492015c829ddb0df42965d488b878594aabc3aed21",
+                "sha256:d54452aedebb4b650254ca092f9f4f5df947cb1de6ab245d817b08b4f4156249"
+            ],
+            "index": "pypi",
+            "version": "==3.12.1"
         },
         "factory-boy": {
             "hashes": [
